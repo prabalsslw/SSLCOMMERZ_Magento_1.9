@@ -12,5 +12,4 @@ Please follow these steps to install the SSLCOMMERZ Payment Gateway module.
 7. Put your Store ID, Validation Password and Change Server Type Test URL Or Live URL.
 8. Click Save Config.
 
-
 More info: https://www.sslcommerz.com
