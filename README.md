@@ -2,14 +2,24 @@
 SSLCOMMERZ-Online Payment Gateway For Bangladesh
 
 Installation steps
+
 Please follow these steps to install the SSLCOMMERZ Payment Gateway module.
+
 1. Log in to your server using FTP or Cpanel.
+2. 
 2. Upload the app.zip file to server root.
+3. 
 3. Unzip the app.zip file.
+4. 
 4. Log in to your Magento admin account.
+5. 
 5. Navigate to System > Configuration > Sales > Payments Method.
+6. 
 6. Navigate SSLCOMMERZ Payment Gateway. 
+7. 
 7. Put your Store ID, Validation Password and Change Server Type Test URL Or Live URL.
+8. 
 8. Click Save Config.
+9. 
 
 More info: https://www.sslcommerz.com
