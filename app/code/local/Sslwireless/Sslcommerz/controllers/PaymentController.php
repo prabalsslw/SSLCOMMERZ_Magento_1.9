@@ -18,7 +18,7 @@ class Sslwireless_Sslcommerz_PaymentController extends Mage_Core_Controller_Fron
 	// The response action is triggered when your gateway sends back a response after processing the customer's payment
 	public function responseAction() {
 
-		$validUrl = array('1'=>'https://securepay.sslcommerz.com/validator/api/testbox/validationserverAPI.php', '2'=>'https://securepay.sslcommerz.com/validator/api/validationserverAPI.php');
+		$validUrl = array('1'=>'https://sandbox.sslcommerz.com/validator/api/validationserverAPI.php', '2'=>'https://securepay.sslcommerz.com/validator/api/validationserverAPI.php');
 
 		if($this->getRequest()->isPost()) {
 			
