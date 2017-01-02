@@ -1,6 +1,9 @@
 # SSLCOMMERZ_Magento
 SSLCOMMERZ-Online Payment Gateway For Bangladesh
 
+
+This Module Only Work for Magento Version 1.9
+
 Installation steps
 
 Please follow these steps to install the SSLCOMMERZ Payment Gateway module.
