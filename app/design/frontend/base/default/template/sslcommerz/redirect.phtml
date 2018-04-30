@@ -60,7 +60,7 @@ $vurl = $validUrl[$marchenturl];
 
 $fields = array( 
 'store_id' => $marchent_id, 
-'total_amount' => $_order->getBaseGrandTotal(),  
+'total_amount' => $_order->getGrandTotal(),  
 'currency' => $currencyDesc, 
 'tran_id' => $orderId, 
 'cus_name' => $order->getCustomerFirstname().' '.$order->getCustomerLastname(), 
